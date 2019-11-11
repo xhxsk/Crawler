@@ -31,7 +31,7 @@ namespace MainProcess
         {
             #region  获取验证码
             //项目ID
-            string items = "4065";
+            string items = "2333";
             //运营商ID
             string PhoneType = "0";
             string Token = "";
